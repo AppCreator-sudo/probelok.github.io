@@ -1,0 +1,33 @@
+{
+  "name": "ProБелок",
+  "short_name": "ProБелок",
+  "description": "Умный помощник по питанию с фокусом на белок",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF6B9D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle"],
+  "lang": "ru",
+  "telegram": {
+    "web_app": {
+      "url": "https://your-app-url.com",
+      "button_color": "#FF6B9D",
+      "button_text_color": "#ffffff"
+    }
+  }
+}
